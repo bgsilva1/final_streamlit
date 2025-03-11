@@ -2,6 +2,8 @@ streamlit
 pandas
 numpy
 scikit-learn
+mistral_common
+mistral_inference
 langchain
 json
 seaborn

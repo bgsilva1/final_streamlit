@@ -2,8 +2,6 @@ streamlit
 pandas
 numpy
 scikit-learn
-mistral_common
-mistral_inference
 json
 seaborn
 matplotlib.pyplot

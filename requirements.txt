@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+langchain_mistralai.chat_models
+langchain_experimental.agents
+json
+seaborn
+matplotlib.pyplot
+plotly.express
+joblib
